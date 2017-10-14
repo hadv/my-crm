@@ -1,5 +1,5 @@
 		<br>
 		<hr>
-		<em>ClevverMail &copy; 2017</em>
+		<em>&copy; 2017 ClevverMail. Trademarks and brands are the property of their respective owners.</em>
 	</body>
 </html>
